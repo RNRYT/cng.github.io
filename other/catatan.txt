@@ -1,0 +1,13 @@
+-home
+-about 
+-technology
+-products
+-services
+-CSR
+-career
+-contact us
+
+-font 
+-color 
+-navbar✅
+-bg
